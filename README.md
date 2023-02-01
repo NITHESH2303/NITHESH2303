@@ -108,7 +108,7 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 
 ## <a href="https://github.com/NITHESH2303"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
 <p align="center">
-	<a href="https://github.com/NITHESH2303">
+	<a href="https://leetcode.com/NITHESH_23/">
 	<img src="https://leetcode-stats-six.vercel.app/?username=NITHESH_23=dark" alt="NITHESH_23">
 	</a>
 	<br/>
