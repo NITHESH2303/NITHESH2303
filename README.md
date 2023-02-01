@@ -55,6 +55,7 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <p align="center">
 	<a href="https://github.com/NITHESH2303">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NITHESH2303&show_icons=true" alt="NITHESH2303">
+	[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NITHESH2303" alt="NITHESH2303">
 	</a>
 	<br/>
