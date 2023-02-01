@@ -1,4 +1,14 @@
-### Hi there 👋
+# Nithesh Kanna
+
+Aspiring data scientist with a strong mathematical and statistical foundation, practical knowledge with data analysis, visualisation, and machine learning methods. I like taking part in Data Hackathons and experimenting with data for practical applications. Both working alone and in groups is something I look forward to.
+
+- Aspiring Electrical Engineer and Data Scientist
+- Student at Bannariamman Institute of Technology Erode and Indian Institute of Technology Madras
+- Check out my portfolio [here](https://hello.com)
+- I could answer your questions on ML, Python, CPP, Java.
+- Feel free to mail me: [nitheshkanna23](nitheshkanna23@gmail.com)
+
+Connect with me: [Linkedin](https://www.linkedin.com/in/nitheshkanna/)
 
 <!--
 **NITHESH2303/NITHESH2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
