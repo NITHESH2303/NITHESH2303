@@ -48,6 +48,19 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
     <a href="https://github.com/NITHESH2303"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </p>
 
+## <a href="https://github.com/NITHESH2303"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+<br/>
+<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/NITHESH2303">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="NITHESH2303">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="NITHESH2303">
+	</a>
+	<br/>
+</p>
+<br/>
+
 
 <!--
 **NITHESH2303/NITHESH2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
