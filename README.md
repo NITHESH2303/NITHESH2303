@@ -54,9 +54,9 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <br/>
 <p align="center">
 	<a href="https://github.com/NITHESH2303">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NITHESH2303&theme=blue-green" alt="NITHESH2303">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NITHESH2303&theme=blue-grey" alt="NITHESH2303">
 	<br/><br/>
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NITHESH2303&theme=blue-green" alt="NITHESH2303">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NITHESH2303&theme=blue-grey" alt="NITHESH2303">
 	</a>
 	<br/>
 </p>
