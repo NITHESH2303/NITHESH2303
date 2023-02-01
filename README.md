@@ -1,4 +1,17 @@
-# Nithesh Kanna
+<h1 align="center">
+Hi, I'm Nithesh Kanna!
+	<a href="https://github.com/NITHESH2303" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/NITHESH2303">
+		<img src="https://komarev.com/ghpvc/?username=NITHESH2303&label=Profile%20views&color=0e75b6&style=flat" alt="NITHESH2303" />
+	</a>
+	<a href="https://github.com/NITHESH2303">
+		<img src="https://img.shields.io/github/followers/NITHESH2303?label=Followers" alt="NITHESH2303" />
+	</a>
+</p>
 
 Aspiring data scientist with a strong mathematical and statistical foundation, practical knowledge with data analysis, visualisation, and machine learning methods. I like taking part in Data Hackathons and experimenting with data for practical applications. Both working alone and in groups is something I look forward to.
 
@@ -6,9 +19,7 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 - 🌱Student at Bannariamman Institute of Technology Erode and Indian Institute of Technology Madras
 - 🤺Check out my portfolio [here](https://hello.com)
 - 💬I could answer your questions on ML, Python, CPP, Java.
-- 📫Feel free to mail me: [nitheshkanna23](nitheshkanna23@gmail.com)
 
-Connect with me: [Linkedin](https://www.linkedin.com/in/nitheshkanna/)
 
 ## 🤝 Connect with me
 <p align="center">
