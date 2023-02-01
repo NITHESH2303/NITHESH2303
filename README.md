@@ -63,6 +63,19 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 	<br/>
 </p>
 <br/>
+<summary><b>⚡ Top Languages</b></summary>
+<br/>
+
+<p align="center">
+	<a href="https://github.com/NITHESH2303">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHESH2303&langs_count=8&layout=compact&theme=blue-green" alt="bouaskaoun">
+	</a>
+	<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<br/>
+
 
 
 <!--
