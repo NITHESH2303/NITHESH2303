@@ -107,7 +107,11 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <br/>
 
 ## <a href="https://github.com/NITHESH2303"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
-
+<p align="center">
+	<a href="https://github.com/NITHESH2303">
+	<img src="https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark" alt="NITHESH_23">
+	</a>
+	<br/>
 
 ## It's not perfect, isn't it?
 <p>
@@ -115,11 +119,6 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <br/>
 <summary><b>⚡ Nithesh's LeetCode Stats</b></summary>
 <br/>
-<p align="center">
-	<a href="https://github.com/NITHESH2303">
-	<img src="https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark" alt="NITHESH2303">
-	</a>
-	<br/>
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
