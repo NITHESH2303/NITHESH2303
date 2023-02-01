@@ -44,8 +44,8 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 
 <p>
     <a href="https://github.com/NITHESH2303"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></a>
 </p>
 
 ## <a href="https://github.com/NITHESH2303"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
@@ -55,10 +55,11 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <p align="center">
 	<a href="https://github.com/NITHESH2303">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NITHESH2303&theme=blue-green" alt="NITHESH2303">
+	<br/>
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NITHESH2303&theme=blue-green" alt="NITHESH2303">
+	<br/>
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHESH2303&theme=blue-green" alt="NITHESH2303">
 	</a>
-	<br/>
 </p>
 <br/>
 
