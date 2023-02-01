@@ -19,13 +19,16 @@ Hi, I'm Nithesh Kanna!
 	</a>
 </p>
 
-
+<hr>
+<pre>
 Aspiring data scientist with a strong mathematical and statistical foundation, practical knowledge with data analysis, visualisation, and machine learning methods. I like taking part in Data Hackathons and experimenting with data for practical applications. Both working alone and in groups is something I look forward to.
 
 - 🔭Aspiring Electronics Engineer and Data Scientist
 - 🌱Student at Bannariamman Institute of Technology Erode and Indian Institute of Technology Madras
 - 🤺Check out my portfolio [here](https://hello.com)
 - 💬I could answer your questions on ML, Python, CPP, Java.
+</pre>
+</hr>
 
 
 ## 🤝 Connect with me
