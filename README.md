@@ -50,12 +50,12 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 
 ## <a href="https://github.com/NITHESH2303"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Nithesh's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/NITHESH2303">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="NITHESH2303">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="NITHESH2303">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NITHESH2303&show_icons=true" alt="NITHESH2303">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NITHESH2303" alt="NITHESH2303">
 	</a>
 	<br/>
 </p>
