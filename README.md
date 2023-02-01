@@ -57,6 +57,7 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
     <a href="https://github.com/NITHESH2303"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
 
