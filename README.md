@@ -44,6 +44,8 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 ### 👨‍💻 Programming Languages
 
 <p>
+    <a href="https://github.com/NITHESH2303"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></a>
