@@ -24,7 +24,7 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <hr>
 <pre>
 - 🔭Aspiring Electronics Engineer and Data Scientist
-- 🌱Student at Bannariamman Institute of Technology Erode and Indian Institute of Technology Madras
+- 🌱Student at Bannari Amman Institute of Technology Erode and Indian Institute of Technology Madras
 - 🤺Check out my portfolio [here](https://hello.com)
 - 💬I could answer your questions on ML, Python, CPP, Java.
 </pre>
