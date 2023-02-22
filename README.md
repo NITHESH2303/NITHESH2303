@@ -25,7 +25,7 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <pre>
 - 🔭Aspiring Electronics Engineer and Data Scientist
 - 🌱Student at Bannari Amman Institute of Technology Erode and Indian Institute of Technology Madras
-- 🤺Check out my portfolio <a href="https://nithesh2303.github.io" target="_blank">**here**</a>
+- 🤺Check out my portfolio <a href="https://nithesh2303.github.io" target="_blank">here</a>
 - 💬I could answer your questions on ML, Python, CPP, Java.
 </pre>
 </hr>
