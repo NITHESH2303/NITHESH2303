@@ -49,7 +49,7 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
     <a href="https://github.com/NITHESH2303"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><ing alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
