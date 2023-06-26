@@ -46,9 +46,10 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <p>
     <a href="https://github.com/NITHESH2303"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><ing alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -78,6 +79,8 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
     <a href="https://github.com/NITHESH2303"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="Webstorm" src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white"></a>
+    <a href="https://github.com/NITHESH2303"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/NITHESH2303"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
