@@ -105,7 +105,8 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 
 <p align="center">
 	<a href="https://github.com/NITHESH2303">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHESH2303&langs_count=8&layout=compact&theme=blue-green" alt="NITHESH2303">
+<!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHESH2303&langs_count=8&layout=compact&theme=blue-green" alt="NITHESH2303"> -->
+	<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NITHESH2303&theme=react&line_height=40&hide=css"/></a>
 	</a>
 	<br/>
 <br/>
