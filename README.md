@@ -92,7 +92,7 @@ So that's me in a nutshell! A data-loving, problem-solving enthusiast who believ
 </p>
 </br>
 
-## <a href="https://github.com/NITHESH2303"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/NITHESH2303"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" width="30"></a> GitHub Stats
 <br/>
 <summary><b>⚡ Nithesh's Stats</b></summary>
 <br/>
