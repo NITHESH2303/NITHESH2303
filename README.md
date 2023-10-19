@@ -12,13 +12,7 @@ Hi, I'm Nithesh Kanna!
 		<img src="https://img.shields.io/github/followers/NITHESH2303?label=Followers" alt="NITHESH2303" />
 	</a>
 </p>
-<br/>
-<p align="center">
-	<a href="https://github.com/NITHESH2303">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Communication%20Eng.%20Student;Passionate%20Programmer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20Crafting%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
-<br/>
+
 <p align="center>
 	<a href="https://app.daily.dev/nitheshkannas"><img src="https://github.com/nithesh2303/nithesh2303/blob/main/devcard.svg" width="400" alt="Nithesh Kanna's Dev Card"/></a>
 </p>
@@ -43,6 +37,13 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 	<a href="https://twitter.com/Nithesh_2303"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 <!-- 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
+<br/>
+<p align="center">
+	<a href="https://github.com/NITHESH2303">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Communication%20Eng.%20Student;Passionate%20Programmer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20Crafting%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+<br/>
 
 ## 🛠️ My Favorite Tools
 
