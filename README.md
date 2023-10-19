@@ -12,10 +12,6 @@ Hi, I'm Nithesh Kanna!
 		<img src="https://img.shields.io/github/followers/NITHESH2303?label=Followers" alt="NITHESH2303" />
 	</a>
 </p>
-
-<p align="center>
-	<a href="https://app.daily.dev/nitheshkannas"><img src="https://github.com/nithesh2303/nithesh2303/blob/main/devcard.svg" width="400" alt="Nithesh Kanna's Dev Card"/></a>
-</p>
 <br/>
 <p>
 Aspiring data scientist with a strong mathematical and statistical foundation, practical knowledge with data analysis, visualisation, and machine learning methods. I like taking part in Data Hackathons and experimenting with data for practical applications. Both working alone and in groups is something I look forward to.
