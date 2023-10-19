@@ -39,6 +39,8 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 <!-- 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
 
+<a href="https://app.daily.dev/nitheshkannas"><img src="https://github.com/nithesh2303/nithesh2303/blob/main/devcard.svg" width="400" alt="Nithesh Kanna's Dev Card"/></a>
+
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
