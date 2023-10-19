@@ -12,9 +12,19 @@ Hi, I'm Nithesh Kanna!
 		<img src="https://img.shields.io/github/followers/NITHESH2303?label=Followers" alt="NITHESH2303" />
 	</a>
 </p>
-<br/>
+<p align="center">
+	<a href="https://github.com/NITHESH2303">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Communication%20Eng.%20Student;Passionate%20Programmer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20Crafting%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 <p>
-Aspiring data scientist with a strong mathematical and statistical foundation, practical knowledge with data analysis, visualisation, and machine learning methods. I like taking part in Data Hackathons and experimenting with data for practical applications. Both working alone and in groups is something I look forward to.
+Hello, World! 🌍 I'm an aspiring Data Scientist 📊, a number cruncher, and a pattern finder, with a strong background in Mathematics 🧮 and Statistics 📈. I've got my hands dirty with Data Analysis, Visualization, and Machine Learning Algorithms 🤖. I'm the kind of person who enjoys a good Data Hackathon 🏆 - it's like a marathon for the mind, and the finish line is always a new discovery!
+
+I'm comfortable working solo 🚀 or being part of a team 👥. In fact, I've been part of many volunteer groups - because why not use our skills for good, right? 💖
+
+In my spare time, you'll find me playing chess ♟️ (I'm a 1900 rated player on Lichess.org), or buried in a good book 📚. Some of my favorites include "The Art of War" by Sun Tzu and "Rich Dad Poor Dad" by Robert Kiyosaki.
+
+So that's me in a nutshell! A data-loving, problem-solving enthusiast who believes in making the world a better place through technology. Let's connect! 🤝
 </p>
 <hr>
 <pre>
@@ -33,13 +43,6 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 	<a href="https://twitter.com/Nithesh_2303"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 <!-- 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
-<br/>
-<p align="center">
-	<a href="https://github.com/NITHESH2303">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Communication%20Eng.%20Student;Passionate%20Programmer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20Crafting%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
-<br/>
 
 ## 🛠️ My Favorite Tools
 
@@ -116,12 +119,23 @@ Aspiring data scientist with a strong mathematical and statistical foundation, p
 </p>
 <br/>
 
+## <a href="https://github.com/NITHESH2303"><img src="https://github.com/dailydotdev/daily/raw/master/assets/Logo%20-%20Black%20(1).jpg" width="30"></a> DevCard
+<p align="center>
+	<a href="https://app.daily.dev/nitheshkannas">
+	<img src="https://github.com/nithesh2303/nithesh2303/blob/main/devcard.svg" width="400" alt="Nithesh Kanna's Dev Card"/>
+ 	</a>
+  	<br/>
+</p>
+<br/>
+
 ## <a href="https://github.com/NITHESH2303"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
 <p align="center">
 	<a href="https://leetcode.com/NITHESH_23/">
 	<img src="https://leetcard.jacoblin.cool/NITHESH_23?theme=dark&font=Faustina" alt="NITHESH_23">
 	</a>
 	<br/>
+</p>
+<br/>
 
 ## It's not perfect, isn't it?
 <p>
