@@ -111,8 +111,8 @@ So that's me in a nutshell! A data-loving, problem-solving enthusiast who believ
 <p align="center">
 	<a href="https://github.com/NITHESH2303">
 <!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHESH2303&langs_count=8&layout=compact&theme=blue-green" alt="NITHESH2303"> -->
-<!-- 	<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NITHESH2303&theme=react&line_height=40&hide=css"/></a> -->
-	<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nithesh2303" rameborder="0"></iframe>
+	<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NITHESH2303&theme=react&line_height=40&hide=css"/></a>
+<!-- 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithesh2303&langs_count=8"/> -->
 	</a>
 	<br/>
 <br/>
