@@ -44,6 +44,10 @@ So that's me in a nutshell! A data-loving, problem-solving enthusiast who believ
 <!-- 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
 
+<p align="center">
+<a href="https://twitter.com/Nithesh_2303"><img src="https://github.com/NITHESH2303/NITHESH2303/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution-Snake"></a>
+</p>
+
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
